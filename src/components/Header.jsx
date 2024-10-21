@@ -87,7 +87,7 @@ export default function Header() {
                 <div className="flex justify-between items-center relative">
                     <div className="px-4">
                         <a href="/" onClick={(e) => { e.preventDefault(); window.scrollTo({ top: 0, behavior: 'smooth' }); }} className="text-primary dark:text-[#CCCCCC] font-bold text-2xl block py-6">
-                            farhn<span className="text-secondary dark:text-[#333333]">Dev</span>
+                            Porto<span className="text-secondary dark:text-[#333333]">Folio</span>
                         </a>
                     </div>
                     <div className="flex items-center px-4">

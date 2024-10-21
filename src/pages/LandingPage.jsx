@@ -132,7 +132,7 @@ export default function LandingPage() {
                     "block font-bold text-dark text-4xl mt-1 lg:text-5xl dark:text-white"
                   }
                 >
-                  Farhan Maulana Pangestu
+                  Muhammad Faisal Ashshidiq
                 </span>
               </h1>
               <h2
@@ -147,9 +147,10 @@ export default function LandingPage() {
                   "font-medium text-secondary mb-10 leading-relaxed dark:text-[#333333]"
                 }
               >
-                Terkadang merasa lelah itu wajar, tetapi ingat kata menyerah itu{" "}
-                <span className={"text-dark font-bold dark:text-white"}>
-                  Kurang BELAJAR!
+                Jangan mudah menyerah dan putus asa.{" "}
+                <span className={"text-[#630000] font-bold dark:text-white"}>
+                Berjuang demi mendapatkan sesuatu yang menarik 
+                sebelum kematian tiba.!
                 </span>
               </p>
               <div className="flex gap-2">
@@ -178,7 +179,7 @@ export default function LandingPage() {
             >
               <div className={"relative lg:mt-[-140px] lg:right-0"}>
                 <img
-                  src="/img/35.png"
+                  src="/img/me.png"
                   alt=""
                   className={
                     "relative max-w-[400px] mx-auto brightness-110 object-cover z-10 right-0 sm:right-0 top-16 lg:top-10"
@@ -193,7 +194,7 @@ export default function LandingPage() {
                     width={"400"}
                     height={"400"}
                     viewBox="0 0 200 200"
-                    className="fill-[#222222] dark:fill-[#CCCCCC]"
+                    className="fill-[#630000] dark:fill-[#EEEBDD]"
                     xmlns="http://www.w3.org/2000/svg"
                   >
                     <path

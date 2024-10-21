@@ -50,15 +50,15 @@ export default function Portfolio() {
             github: 'https://github.com/cerdas-buatan/cerdas-buatan.github.io',
             aos: 'zoom-out-right'
         },
-        {
-            imgSrc: "/img/portfolio/5.png",
-            imgAlt: "Yok ngopi",
-            title: "Yok Ngopi",
-            description: "Sebuah project yang menggunakan vanila language,html css javascript",
-            link: "",
-            github: '',
-            aos: 'zoom-in'
-        },
+        // {
+        //     imgSrc: "/img/portfolio/5.png",
+        //     imgAlt: "Yok ngopi",
+        //     title: "Yok Ngopi",
+        //     description: "Sebuah project yang menggunakan vanila language,html css javascript",
+        //     link: "",
+        //     github: '',
+        //     aos: 'zoom-in'
+        // },
         {
             imgSrc: "/img/portfolio/6.png",
             imgAlt: "Dekstop Chat Api",

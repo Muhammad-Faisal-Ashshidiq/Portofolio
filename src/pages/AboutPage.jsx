@@ -20,7 +20,7 @@ export default function AboutPage() {
             </h2>
             <p
               className={
-                "font-medium text-base text-secondary dark:text-[#333333]  lg:text-lg"
+                "font-medium text-base text-secondary dark:text-[#1B1717]  lg:text-lg"
               }
             >
              Jangan mudah menyerah dan putus asa. Berjuang demi mendapatkan sesuatu yang menarik 
@@ -38,18 +38,18 @@ export default function AboutPage() {
             </h3>
             <p
               className={
-                "font-medium text-base text-secondary dark:text-[#333333]  mb-6 lg:text-lg"
+                "font-medium text-base text-primary dark:text-[#EEEBDD]  mb-6 lg:text-lg"
               }
             >
               Follow Saya untuk menambahkan relasi dan networking supaya bisa
-              shankuy (Sharing santuy) <span className={"text-dark font-semibold"}>Ilmu</span>
+              shankuy (Sharing santuy) <span className={"text-white font-semibold"}>Ilmu</span>
             </p>
             <div className="flex">
               {/*github*/}
               <a
                 href="https://github.com/mfaisal-Ash"
                 className={
-                  "h-9 w-9 mr-3 rounded-full flex  justify-center items-center text-slate-300 border border-slate-300 hover:border-primary hover:bg-primary dark:hover:bg-[#333333] hover:text-white "
+                  "h-9 w-9 mr-3 rounded-full flex  justify-center items-center text-slate-300 border border-slate-300 hover:border-primary hover:bg-primary dark:hover:bg-[#1B1717] hover:text-white "
                 }
                 target={"_blank"}
                 rel="noreferrer"
@@ -70,7 +70,7 @@ export default function AboutPage() {
               <a
                 href="https://www.instagram.com/faisal_shishidiq/?next=%2F"
                 className={
-                  "h-9 w-9 mr-3 rounded-full flex  justify-center items-center text-slate-300 border border-slate-300 hover:border-primary hover:bg-primary dark:hover:bg-[#333333] hover:text-white "
+                  "h-9 w-9 mr-3 rounded-full flex  justify-center items-center text-slate-300 border border-slate-300 hover:border-primary hover:bg-primary dark:hover:bg-[#1B1717] hover:text-white "
                 }
                 target={"_blank"}
                 rel="noreferrer"
@@ -91,7 +91,7 @@ export default function AboutPage() {
               <a
                 href={"https://www.linkedin.com/in/muhammad-faisal-ashshidiq/"}
                 className={
-                  "h-9 w-9 mr-3 rounded-full flex  justify-center items-center text-slate-300 border border-slate-300 hover:border-primary hover:bg-primary dark:hover:bg-[#333333] hover:text-white "
+                  "h-9 w-9 mr-3 rounded-full flex  justify-center items-center text-slate-300 border border-slate-300 hover:border-primary hover:bg-primary dark:hover:bg-[#1B1717] hover:text-white "
                 }
                 target={"_blank"}
                 rel={"noreferrer"}

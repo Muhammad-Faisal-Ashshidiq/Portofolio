@@ -8,7 +8,7 @@ export default function Contacts() {
         // reply_to: '',  // Add this field for user's email
         subject: '',
         message: '',
-        to_name: 'Farhan',
+        to_name: 'Faisal tampan',
     });
 
     const [statusMessage, setStatusMessage] = useState('');
@@ -39,7 +39,7 @@ export default function Contacts() {
                 // reply_to: '',  // Reset this field
                 subject: '',
                 message: '',
-                to_name: 'Farhan', 
+                to_name: 'Faisal', 
             });
         }, (error) => {
             console.log('FAILED...', error);

@@ -200,13 +200,13 @@ export default function Experience() {
                     <div className='hidden lg:block  mt-10 py-5 px-48'
                         data-aos="zoom-in-up"
                         data-aos-offset="200">
-                        <GitHubCalendar username="farhnDev" />
+                        <GitHubCalendar username="Faisal" />
                     </div>
                     <div className="lg:hidden mt-10"
                         data-aos="zoom-in-up"
                         data-aos-offset="200"
                         data-aos-duration="800">
-                        <GitHubCalendar username="farhnDev" />
+                        <GitHubCalendar username="Faisal" />
                     </div>
                 </div>
             </div>

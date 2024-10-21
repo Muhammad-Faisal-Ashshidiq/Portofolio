@@ -1,7 +1,11 @@
 export default function Footer() {
     return (
-        <section className="pt-24 pb-12 bg-dark">
+        <section className="pt-24 pb-12 bg-dark matrix-background">
+            <div className="matrix-text"></div> {/* Matrix effect */}
             <div className="container">
+            <div className="matrix-text">
+                    <span>SELAMAT DATANG</span>
+                </div>
                 <div className="flex flex-wrap">
                     <div className="w-full px-4 mb-12 text-slate-300 font-medium md:w-1/3"
                         data-aos="fade-right"
