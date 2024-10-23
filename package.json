@@ -2,7 +2,7 @@
   "homepage": "https://mfaisal-Ash.github.io/Portofolio",
   "name": "portofolio",
   "private": true,
-  "version": "0.0.2",
+  "version": "0.0.3",
   "type": "module",
   "scripts": {
    "predeploy": "npm run build",
